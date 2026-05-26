@@ -52,7 +52,7 @@ constellation-explorer/
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/constellation-explorer.git
+git clone https://github.com/Aksadio/constellation-explorer.git
 cd constellation-explorer
 # Open index.html in your browser, or:
 npx serve .
